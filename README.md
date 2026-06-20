@@ -12,10 +12,11 @@ Created group rules in Okta using user attributes to automatically assign users 
 - Windows 11
 
 
-<h2>The groups are titled Sales, HR, IT for our Sales, HR, IT departments.</h2>
+<h2>The groups are titled Sales, HR, IT for our Sales, HR, IT departments. All of the rules automatically assign users to said groups upon Activation.</h2>
 
 <p>
-<img width="1057" height="572" alt="image" src="https://github.com/user-attachments/assets/57ea6be9-4362-452f-a0f5-958104c892fa" />
+<img width="1072" height="667" alt="image" src="https://github.com/user-attachments/assets/11f546df-a1b9-4116-9d62-4152b62dde20" />
+
 
 
 
